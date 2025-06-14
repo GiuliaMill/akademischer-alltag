@@ -172,83 +172,83 @@ timeline.push({
     <h3>Frage 2</h3>
     <p><em>„Ich schenke anderen leicht Vertrauen, glaube an das Gute im Menschen.“</em></p>
    <p>
-      <input type="radio" name="item1" value="1" required> 1 = gar nicht<br>
-      <input type="radio" name="item1" value="2"> 2 = ein bisschen<br>
-      <input type="radio" name="item1" value="3"> 3 = einigermaßen<br>
-      <input type="radio" name="item1" value="4"> 4 = erheblich<br>
-      <input type="radio" name="item1" value="5"> 5 = äußerst<br>
+      <input type="radio" name="item2" value="1" required> 1 = gar nicht<br>
+      <input type="radio" name="item2" value="2"> 2 = ein bisschen<br>
+      <input type="radio" name="item2" value="3"> 3 = einigermaßen<br>
+      <input type="radio" name="item2" value="4"> 4 = erheblich<br>
+      <input type="radio" name="item2" value="5"> 5 = äußerst<br>
 
   <h3>Frage 3</h3>
     <p><em>„Ich bin bequem, neige zur Faulheit.“</em></p>
     <p>
-      <input type="radio" name="item1" value="1" required> 1 = gar nicht<br>
-      <input type="radio" name="item1" value="2"> 2 = ein bisschen<br>
-      <input type="radio" name="item1" value="3"> 3 = einigermaßen<br>
-      <input type="radio" name="item1" value="4"> 4 = erheblich<br>
-      <input type="radio" name="item1" value="5"> 5 = äußerst<br>
+      <input type="radio" name="item3" value="1" required> 1 = gar nicht<br>
+      <input type="radio" name="item3" value="2"> 2 = ein bisschen<br>
+      <input type="radio" name="item3" value="3"> 3 = einigermaßen<br>
+      <input type="radio" name="item3" value="4"> 4 = erheblich<br>
+      <input type="radio" name="item3" value="5"> 5 = äußerst<br>
 
     <h3>Frage 4</h3>
     <p><em>„Ich bin entspannt, lasse mich durch Stress nicht aus der Ruhe bringen.“</em></p>
     <p>
-      <input type="radio" name="item1" value="1" required> 1 = gar nicht<br>
-      <input type="radio" name="item1" value="2"> 2 = ein bisschen<br>
-      <input type="radio" name="item1" value="3"> 3 = einigermaßen<br>
-      <input type="radio" name="item1" value="4"> 4 = erheblich<br>
-      <input type="radio" name="item1" value="5"> 5 = äußerst<br>
+      <input type="radio" name="item4" value="1" required> 1 = gar nicht<br>
+      <input type="radio" name="item4" value="2"> 2 = ein bisschen<br>
+      <input type="radio" name="item4" value="3"> 3 = einigermaßen<br>
+      <input type="radio" name="item4" value="4"> 4 = erheblich<br>
+      <input type="radio" name="item4" value="5"> 5 = äußerst<br>
 
     <h3>Frage 5</h3>
     <p><em>„Ich habe nur wenig künstlerisches Interesse.“</em></p>
    <p>
-      <input type="radio" name="item1" value="1" required> 1 = gar nicht<br>
-      <input type="radio" name="item1" value="2"> 2 = ein bisschen<br>
-      <input type="radio" name="item1" value="3"> 3 = einigermaßen<br>
-      <input type="radio" name="item1" value="4"> 4 = erheblich<br>
-      <input type="radio" name="item1" value="5"> 5 = äußerst<br>
+      <input type="radio" name="item5" value="1" required> 1 = gar nicht<br>
+      <input type="radio" name="item5" value="2"> 2 = ein bisschen<br>
+      <input type="radio" name="item5" value="3"> 3 = einigermaßen<br>
+      <input type="radio" name="item5" value="4"> 4 = erheblich<br>
+      <input type="radio" name="item5" value="5"> 5 = äußerst<br>
 
     <h3>Frage 6</h3>
     <p><em>„Ich gehe aus mir heraus, bin gesellig. “</em></p>
    <p>
-      <input type="radio" name="item1" value="1" required> 1 = gar nicht<br>
-      <input type="radio" name="item1" value="2"> 2 = ein bisschen<br>
-      <input type="radio" name="item1" value="3"> 3 = einigermaßen<br>
-      <input type="radio" name="item1" value="4"> 4 = erheblich<br>
-      <input type="radio" name="item1" value="5"> 5 = äußerst<br>
+      <input type="radio" name="item6" value="1" required> 1 = gar nicht<br>
+      <input type="radio" name="item6" value="2"> 2 = ein bisschen<br>
+      <input type="radio" name="item6" value="3"> 3 = einigermaßen<br>
+      <input type="radio" name="item6" value="4"> 4 = erheblich<br>
+      <input type="radio" name="item6" value="5"> 5 = äußerst<br>
 
     <h3>Frage 7</h3>
     <p><em>„Ich neige dazu, andere zu kritisieren.“</em></p>
   <p>
-      <input type="radio" name="item1" value="1" required> 1 = gar nicht<br>
-      <input type="radio" name="item1" value="2"> 2 = ein bisschen<br>
-      <input type="radio" name="item1" value="3"> 3 = einigermaßen<br>
-      <input type="radio" name="item1" value="4"> 4 = erheblich<br>
-      <input type="radio" name="item1" value="5"> 5 = äußerst<br>
+      <input type="radio" name="item7" value="1" required> 1 = gar nicht<br>
+      <input type="radio" name="item7" value="2"> 2 = ein bisschen<br>
+      <input type="radio" name="item7" value="3"> 3 = einigermaßen<br>
+      <input type="radio" name="item7" value="4"> 4 = erheblich<br>
+      <input type="radio" name="item7" value="5"> 5 = äußerst<br>
 
     <h3>Frage 8</h3>
     <p><em>„Ich erledige Aufgaben gründlich.“</em></p>
   <p>
-      <input type="radio" name="item1" value="1" required> 1 = gar nicht<br>
-      <input type="radio" name="item1" value="2"> 2 = ein bisschen<br>
-      <input type="radio" name="item1" value="3"> 3 = einigermaßen<br>
-      <input type="radio" name="item1" value="4"> 4 = erheblich<br>
-      <input type="radio" name="item1" value="5"> 5 = äußerst<br>
+      <input type="radio" name="item8" value="1" required> 1 = gar nicht<br>
+      <input type="radio" name="item8" value="2"> 2 = ein bisschen<br>
+      <input type="radio" name="item8" value="3"> 3 = einigermaßen<br>
+      <input type="radio" name="item8" value="4"> 4 = erheblich<br>
+      <input type="radio" name="item8" value="5"> 5 = äußerst<br>
 
     <h3>Frage 9</h3>
     <p><em>„Ich werde leicht nervös und unsicher.“</em></p>
  <p>
-      <input type="radio" name="item1" value="1" required> 1 = gar nicht<br>
-      <input type="radio" name="item1" value="2"> 2 = ein bisschen<br>
-      <input type="radio" name="item1" value="3"> 3 = einigermaßen<br>
-      <input type="radio" name="item1" value="4"> 4 = erheblich<br>
-      <input type="radio" name="item1" value="5"> 5 = äußerst<br>
+      <input type="radio" name="item9" value="1" required> 1 = gar nicht<br>
+      <input type="radio" name="item9" value="2"> 2 = ein bisschen<br>
+      <input type="radio" name="item9" value="3"> 3 = einigermaßen<br>
+      <input type="radio" name="item9" value="4"> 4 = erheblich<br>
+      <input type="radio" name="item9" value="5"> 5 = äußerst<br>
 
     <h3>Frage 10</h3>
     <p><em>„Ich habe eine aktive Vorstellungskraft, bin fantasievoll.“</em></p>
 <p>
-      <input type="radio" name="item1" value="1" required> 1 = gar nicht<br>
-      <input type="radio" name="item1" value="2"> 2 = ein bisschen<br>
-      <input type="radio" name="item1" value="3"> 3 = einigermaßen<br>
-      <input type="radio" name="item1" value="4"> 4 = erheblich<br>
-      <input type="radio" name="item1" value="5"> 5 = äußerst<br>
+      <input type="radio" name="item10" value="1" required> 1 = gar nicht<br>
+      <input type="radio" name="item10" value="2"> 2 = ein bisschen<br>
+      <input type="radio" name="item10" value="3"> 3 = einigermaßen<br>
+      <input type="radio" name="item10" value="4"> 4 = erheblich<br>
+      <input type="radio" name="item10" value="5"> 5 = äußerst<br>
 
 
 <h3>2.2. ASCQ</h2>
@@ -279,196 +279,225 @@ timeline.push({
       <input type="radio" name="item2" value="4"> 4 = teils/teils<br>
       <input type="radio" name="item2" value="5"> 5 = ziemlich<br>
       <input type="radio" name="item2" value="6"> 6 = stark<br>
-
+      <input type="radio" name="item2" value="7"> 7 = vollständig<br>
+    </p>
+    
   <h3>Frage 3</h3>
     <p><em>„Ich bin in der Lage, meinen Kommiliton*innen bei ihren Kursarbeiten zu helfen.“</em></p>
     <p>
-      <input type="radio" name="item2" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="item2" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="item2" value="3"> 3 = wenig<br>
-      <input type="radio" name="item2" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="item2" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="item2" value="6"> 6 = stark<br>
+      <input type="radio" name="item3" value="1" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="item3" value="2"> 2 = sehr wenig<br>
+      <input type="radio" name="item3" value="3"> 3 = wenig<br>
+      <input type="radio" name="item3" value="4"> 4 = teils/teils<br>
+      <input type="radio" name="item3" value="5"> 5 = ziemlich<br>
+      <input type="radio" name="item3" value="6"> 6 = stark<br>
+      <input type="radio" name="item3" value="7"> 7 = vollständig<br>
+    </p>
 
     <h3>Frage 4</h3>
     <p><em>„Ich erledige meine Kursarbeiten oft automatisch, ohne nachzudenken.“</em></p>
     <p>
-      <input type="radio" name="item2" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="item2" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="item2" value="3"> 3 = wenig<br>
-      <input type="radio" name="item2" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="item2" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="item2" value="6"> 6 = stark<br>
+      <input type="radio" name="item4" value="1" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="item4" value="2"> 2 = sehr wenig<br>
+      <input type="radio" name="item4" value="3"> 3 = wenig<br>
+      <input type="radio" name="item4" value="4"> 4 = teils/teils<br>
+      <input type="radio" name="item4" value="5"> 5 = ziemlich<br>
+      <input type="radio" name="item4" value="6"> 6 = stark<br>
+      <input type="radio" name="item4" value="7"> 7 = vollständig<br>
+    </p>
 
     <h3>Frage 5</h3>
     <p><em>„Ich glaube, dass ich bessere Noten erreichen kann, wenn ich hart arbeite.“</em></p>
     <p>
-      <input type="radio" name="item2" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="item2" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="item2" value="3"> 3 = wenig<br>
-      <input type="radio" name="item2" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="item2" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="item2" value="6"> 6 = stark<br>
+      <input type="radio" name="item5" value="1" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="item5" value="2"> 2 = sehr wenig<br>
+      <input type="radio" name="item5" value="3"> 3 = wenig<br>
+      <input type="radio" name="item5" value="4"> 4 = teils/teils<br>
+      <input type="radio" name="item5" value="5"> 5 = ziemlich<br>
+      <input type="radio" name="item5" value="6"> 6 = stark<br>
+      <input type="radio" name="item5" value="7"> 7 = vollständig<br>
+    </p>
 
     <h3>Frage 6</h3>
     <p><em>„Ich höre den Dozent*innen in den Vorlesungen aufmerksam zu. “</em></p>
     <p>
-      <input type="radio" name="item2" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="item2" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="item2" value="3"> 3 = wenig<br>
-      <input type="radio" name="item2" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="item2" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="item2" value="6"> 6 = stark<br>
+      <input type="radio" name="item6" value="1" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="item6" value="2"> 2 = sehr wenig<br>
+      <input type="radio" name="item6" value="3"> 3 = wenig<br>
+      <input type="radio" name="item6 value="4"> 4 = teils/teils<br>
+      <input type="radio" name="item6" value="5"> 5 = ziemlich<br>
+      <input type="radio" name="item6" value="6"> 6 = stark<br>
+      <input type="radio" name="item6" value="7"> 7 = vollständig<br>
+    </p>
 
     <h3>Frage 7</h3>
     <p><em>„Die meisten meiner Kommiliton*innen sind schlauer als ich.“</em></p>
     <p>
-      <input type="radio" name="item2" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="item2" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="item2" value="3"> 3 = wenig<br>
-      <input type="radio" name="item2" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="item2" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="item2" value="6"> 6 = stark<br>
+      <input type="radio" name="item7" value="1" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="item7" value="2"> 2 = sehr wenig<br>
+      <input type="radio" name="item7" value="3"> 3 = wenig<br>
+      <input type="radio" name="item7" value="4"> 4 = teils/teils<br>
+      <input type="radio" name="item7" value="5"> 5 = ziemlich<br>
+      <input type="radio" name="item7" value="6"> 6 = stark<br>
+      <input type="radio" name="item7" value="7"> 7 = vollständig<br>
+    </p>
 
     <h3>Frage 8</h3>
     <p><em>„Ich lerne fleißig für meine Prüfungen.“</em></p>
     <p>
-      <input type="radio" name="item2" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="item2" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="item2" value="3"> 3 = wenig<br>
-      <input type="radio" name="item2" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="item2" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="item2" value="6"> 6 = stark<br>
+      <input type="radio" name="item8" value="1" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="item8" value="2"> 2 = sehr wenig<br>
+      <input type="radio" name="item8" value="3"> 3 = wenig<br>
+      <input type="radio" name="item8" value="4"> 4 = teils/teils<br>
+      <input type="radio" name="item8" value="5"> 5 = ziemlich<br>
+      <input type="radio" name="item8" value="6"> 6 = stark<br>
+      <input type="radio" name="item8" value="7"> 7 = vollständig<br>
+    </p>
 
     <h3>Frage 9</h3>
     <p><em>„Meine Dozent*innen halten meine Studienleistungen für schlecht.“</em></p>
     <p>
-      <input type="radio" name="item2" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="item2" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="item2" value="3"> 3 = wenig<br>
-      <input type="radio" name="item2" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="item2" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="item2" value="6"> 6 = stark<br>
+      <input type="radio" name="item9" value="1" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="item9" value="2"> 2 = sehr wenig<br>
+      <input type="radio" name="item9" value="3"> 3 = wenig<br>
+      <input type="radio" name="item9" value="4"> 4 = teils/teils<br>
+      <input type="radio" name="item9" value="5"> 5 = ziemlich<br>
+      <input type="radio" name="item9" value="6"> 6 = stark<br>
+      <input type="radio" name="item9" value="7"> 7 = vollständig<br>
+    </p>
 
     <h3>Frage 10</h3>
     <p><em>„Ich interessiere mich normalerweise für meine Studieninhalte.“</em></p>
     <p>
-      <input type="radio" name="item2" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="item2" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="item2" value="3"> 3 = wenig<br>
-      <input type="radio" name="item2" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="item2" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="item2" value="6"> 6 = stark<br>
+      <input type="radio" name="item10" value="1" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="item10" value="2"> 2 = sehr wenig<br>
+      <input type="radio" name="item10" value="3"> 3 = wenig<br>
+      <input type="radio" name="item10" value="4"> 4 = teils/teils<br>
+      <input type="radio" name="item10" value="5"> 5 = ziemlich<br>
+      <input type="radio" name="item10" value="6"> 6 = stark<br>
+      <input type="radio" name="item10" value="7"> 7 = vollständig<br>
+    </p>
 
     <h3>Frage 11</h3>
     <p><em>„Ich vergesse oft, was ich gelernt habe. em></p>
     <p>
-      <input type="radio" name="item2" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="item2" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="item2" value="3"> 3 = wenig<br>
-      <input type="radio" name="item2" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="item2" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="item2" value="6"> 6 = stark<br>
-
-    <h3>Frage 2</h3>
-    <p><em>„Ich werde mein Bestes tun, um alle meine Kurse in diesem Semester zu bestehen. “</em></p>
-    <p>
-      <input type="radio" name="item2" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="item2" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="item2" value="3"> 3 = wenig<br>
-      <input type="radio" name="item2" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="item2" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="item2" value="6"> 6 = stark<br>
+      <input type="radio" name="item11" value="1" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="item11" value="2"> 2 = sehr wenig<br>
+      <input type="radio" name="item11" value="3"> 3 = wenig<br>
+      <input type="radio" name="item11" value="4"> 4 = teils/teils<br>
+      <input type="radio" name="item11" value="5"> 5 = ziemlich<br>
+      <input type="radio" name="item11" value="6"> 6 = stark<br>
+      <input type="radio" name="item11" value="7"> 7 = vollständig<br>
+    </p>
 
     <h3>Frage 12</h3>
-    <p><em>„Meine Gedanken schweifen während der Vorlesungen oft ab.“</em></p>
+    <p><em>„Ich werde mein Bestes tun, um alle meine Kurse in diesem Semester zu bestehen. “</em></p>
     <p>
-      <input type="radio" name="item2" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="item2" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="item2" value="3"> 3 = wenig<br>
-      <input type="radio" name="item2" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="item2" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="item2" value="6"> 6 = stark<br>
+      <input type="radio" name="item12" value="1" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="item12" value="2"> 2 = sehr wenig<br>
+      <input type="radio" name="item12" value="3"> 3 = wenig<br>
+      <input type="radio" name="item12" value="4"> 4 = teils/teils<br>
+      <input type="radio" name="item12" value="5"> 5 = ziemlich<br>
+      <input type="radio" name="item12" value="6"> 6 = stark<br>
+      <input type="radio" name="item12" value="7"> 7 = vollständig<br>
+    </p>
 
+   
     <h3>Frage 13</h3>
     <p><em>„Ich werde nervös, wenn Dozent*innen mir eine Frage stellen.“</em></p>
     <p>
-      <input type="radio" name="item2" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="item2" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="item2" value="3"> 3 = wenig<br>
-      <input type="radio" name="item2" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="item2" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="item2" value="6"> 6 = stark<br>
+      <input type="radio" name="item13" value="1" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="item13" value="2"> 2 = sehr wenig<br>
+      <input type="radio" name="item13" value="3"> 3 = wenig<br>
+      <input type="radio" name="item13" value="4"> 4 = teils/teils<br>
+      <input type="radio" name="item13" value="5"> 5 = ziemlich<br>
+      <input type="radio" name="item13" value="6"> 6 = stark<br>
+      <input type="radio" name="item13" value="7"> 7 = vollständig<br>
+    </p>
 
     <h3>Frage 14</h3>
     <p><em>„Ich habe oft das Gefühl, mein Studium abzubrechen zu wollen.“</em></p>
     <p>
-      <input type="radio" name="item2" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="item2" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="item2" value="3"> 3 = wenig<br>
-      <input type="radio" name="item2" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="item2" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="item2" value="6"> 6 = stark<br>
+      <input type="radio" name="item14" value="1" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="item14" value="2"> 2 = sehr wenig<br>
+      <input type="radio" name="item14" value="3"> 3 = wenig<br>
+      <input type="radio" name="item14" value="4"> 4 = teils/teils<br>
+      <input type="radio" name="item14" value="5"> 5 = ziemlich<br>
+      <input type="radio" name="item14" value="6"> 6 = stark<br>
+      <input type="radio" name="item14" value="7"> 7 = vollständig<br>
+    </p>
 
     <h3>Frage 15</h3>
     <p><em>„Ich bin in den meisten meiner Kurse gut.“</em></p>
     <p>
-      <input type="radio" name="item2" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="item2" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="item2" value="3"> 3 = wenig<br>
-      <input type="radio" name="item2" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="item2" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="item2" value="6"> 6 = stark<br>
+      <input type="radio" name="item15" value="1" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="item15" value="2"> 2 = sehr wenig<br>
+      <input type="radio" name="item15" value="3"> 3 = wenig<br>
+      <input type="radio" name="item15" value="4"> 4 = teils/teils<br>
+      <input type="radio" name="item15" value="5"> 5 = ziemlich<br>
+      <input type="radio" name="item15" value="6"> 6 = stark<br>
+      <input type="radio" name="item15" value="7"> 7 = vollständig<br>
+    </p>
 
     <h3>Frage 16</h3>
     <p><em>„Während der Vorlesung warte ich immer, dass sie zu Ende ist, damit ich nach Hause gehen kann.“</em></p>
     <p>
-      <input type="radio" name="item2" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="item2" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="item2" value="3"> 3 = wenig<br>
-      <input type="radio" name="item2" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="item2" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="item2" value="6"> 6 = stark<br>
+      <input type="radio" name="item16" value="1" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="item16" value="2"> 2 = sehr wenig<br>
+      <input type="radio" name="item16" value="3"> 3 = wenig<br>
+      <input type="radio" name="item16" value="4"> 4 = teils/teils<br>
+      <input type="radio" name="item16" value="5"> 5 = ziemlich<br>
+      <input type="radio" name="item16" value="6"> 6 = stark<br>
+      <input type="radio" name="item16" value="7"> 7 = vollständig<br>
+    </p>
 
     <h3>Frage 17</h3>
     <p><em>„Ich schneide in Kursen und Prüfungen immer schlecht ab.“</em></p>
     <p>
-      <input type="radio" name="item2" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="item2" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="item2" value="3"> 3 = wenig<br>
-      <input type="radio" name="item2" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="item2" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="item2" value="6"> 6 = stark<br>
+      <input type="radio" name="item17" value="1" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="item17" value="2"> 2 = sehr wenig<br>
+      <input type="radio" name="item17" value="3"> 3 = wenig<br>
+      <input type="radio" name="item17" value="4"> 4 = teils/teils<br>
+      <input type="radio" name="item17" value="5"> 5 = ziemlich<br>
+      <input type="radio" name="item17" value="6"> 6 = stark<br>
+      <input type="radio" name="item17" value="7"> 7 = vollständig<br>
+    </p>
 
     <h3>Frage 18</h3>
     <p><em>„Ich gebe nicht leicht auf, wenn ich in meinen Kursarbeiten vor schwierigen Fragen stehe.“</em></p>
     <p>
-      <input type="radio" name="item2" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="item2" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="item2" value="3"> 3 = wenig<br>
-      <input type="radio" name="item2" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="item2" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="item2" value="6"> 6 = stark<br>
+      <input type="radio" name="item18" value="1" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="item18" value="2"> 2 = sehr wenig<br>
+      <input type="radio" name="item18" value="3"> 3 = wenig<br>
+      <input type="radio" name="item18" value="4"> 4 = teils/teils<br>
+      <input type="radio" name="item18" value="5"> 5 = ziemlich<br>
+      <input type="radio" name="item18" value="6"> 6 = stark<br>
+      <input type="radio" name="item18" value="7"> 7 = vollständig<br>
+    </p>
 
     <h3>Frage 19</h3>
     <p><em>„Ich bin in meinen Kursen besser als meine Freunde.“</em></p>
     <p>
-      <input type="radio" name="item2" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="item2" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="item2" value="3"> 3 = wenig<br>
-      <input type="radio" name="item2" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="item2" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="item2" value="6"> 6 = stark<br>
+      <input type="radio" name="item19" value="1" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="item19" value="2"> 2 = sehr wenig<br>
+      <input type="radio" name="item19" value="3"> 3 = wenig<br>
+      <input type="radio" name="item19" value="4"> 4 = teils/teils<br>
+      <input type="radio" name="item19" value="5"> 5 = ziemlich<br>
+      <input type="radio" name="item19" value="6"> 6 = stark<br>
+      <input type="radio" name="item19" value="7"> 7 = vollständig<br>
+    </p>
 
     <h3>Frage 20</h3>
     <p><em>„Ich bin nicht bereit, mehr Aufwand in meine Studienarbeit zu stecken.“</em></p>
     <p>
-      <input type="radio" name="item2" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="item2" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="item2" value="3"> 3 = wenig<br>
-      <input type="radio" name="item2" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="item2" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="item2" value="6"> 6 = stark<br>
+      <input type="radio" name="item20" value="1" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="item20" value="2"> 2 = sehr wenig<br>
+      <input type="radio" name="item20" value="3"> 3 = wenig<br>
+      <input type="radio" name="item20" value="4"> 4 = teils/teils<br>
+      <input type="radio" name="item20" value="5"> 5 = ziemlich<br>
+      <input type="radio" name="item20" value="6"> 6 = stark<br>
+      <input type="radio" name="item20" value="7"> 7 = vollständig<br>
+    </p>
 
   
 // Starte die Umfrage
