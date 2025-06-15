@@ -157,83 +157,83 @@ timeline.push({
 
     <p>Ich bin eher zurückhaltend, reserviert.<br>
   <p>
-      <input type="radio" name="BFI_item1" value="1" required> 1 = gar nicht<br>
-      <input type="radio" name="BFI_item1" value="2"> 2 = ein bisschen<br>
-      <input type="radio" name="BFI_item1" value="3"> 3 = einigermaßen<br>
-      <input type="radio" name="BFI_item1" value="4"> 4 = erheblich<br>
-      <input type="radio" name="BFI_item1" value="5"> 5 = äußerst<br>
+      <input type="radio" name="BFI_EXT_item1" value="5" required> 1 = gar nicht<br>
+      <input type="radio" name="BFI_EXT_item1" value="4"> 2 = ein bisschen<br>
+      <input type="radio" name="BFI_EXT_item1" value="3"> 3 = einigermaßen<br>
+      <input type="radio" name="BFI_EXT_item1" value="2"> 4 = erheblich<br>
+      <input type="radio" name="BFI_EXT_item1" value="1"> 5 = äußerst<br>
 
     <p>Ich schenke anderen leicht Vertrauen, glaube an das Gute im Menschen.<br>
    <p>
-      <input type="radio" name="BFI_item2" value="1" required> 1 = gar nicht<br>
-      <input type="radio" name="BFI_item2" value="2"> 2 = ein bisschen<br>
-      <input type="radio" name="BFI_item2" value="3"> 3 = einigermaßen<br>
-      <input type="radio" name="BFI_item2" value="4"> 4 = erheblich<br>
-      <input type="radio" name="BFI_item2" value="5"> 5 = äußerst<br>
+      <input type="radio" name="BFI_VER_item2" value="1" required> 1 = gar nicht<br>
+      <input type="radio" name="BFI_VER_item2" value="2"> 2 = ein bisschen<br>
+      <input type="radio" name="BFI_VER_item2" value="3"> 3 = einigermaßen<br>
+      <input type="radio" name="BFI_VER_item2" value="4"> 4 = erheblich<br>
+      <input type="radio" name="BFI_VER_item2" value="5"> 5 = äußerst<br>
 
     <p>Ich bin bequem, neige zur Faulheit.<br>
    <p>
-      <input type="radio" name="BFI_item3" value="1" required> 1 = gar nicht<br>
-      <input type="radio" name="BFI_item3" value="2"> 2 = ein bisschen<br>
-      <input type="radio" name="BFI_item3" value="3"> 3 = einigermaßen<br>
-      <input type="radio" name="BFI_item3" value="4"> 4 = erheblich<br>
-      <input type="radio" name="BFI_item3" value="5"> 5 = äußerst<br>
+      <input type="radio" name="BFI_GEW_item3" value="5" required> 1 = gar nicht<br>
+      <input type="radio" name="BFI_GEW_item3" value="4"> 2 = ein bisschen<br>
+      <input type="radio" name="BFI_GEW_item3" value="3"> 3 = einigermaßen<br>
+      <input type="radio" name="BFI_GEW_item3" value="2"> 4 = erheblich<br>
+      <input type="radio" name="BFI_GEW_item3" value="1"> 5 = äußerst<br>
 
     <p>Ich bin entspannt, lasse mich durch Stress nicht aus der Ruhe bringen.<br>
    <p>
-      <input type="radio" name="BFI_item4" value="1" required> 1 = gar nicht<br>
-      <input type="radio" name="BFI_item4" value="2"> 2 = ein bisschen<br>
-      <input type="radio" name="BFI_item4" value="3"> 3 = einigermaßen<br>
-      <input type="radio" name="BFI_item4" value="4"> 4 = erheblich<br>
-      <input type="radio" name="BFI_item4" value="5"> 5 = äußerst<br>
+      <input type="radio" name="BFI_NEU_item4" value="5" required> 1 = gar nicht<br>
+      <input type="radio" name="BFI_NEU_item4" value="4"> 2 = ein bisschen<br>
+      <input type="radio" name="BFI_NEU_item4" value="3"> 3 = einigermaßen<br>
+      <input type="radio" name="BFI_NEU_item4" value="2"> 4 = erheblich<br>
+      <input type="radio" name="BFI_NEU_item4" value="1"> 5 = äußerst<br>
 
     <p>Ich habe nur wenig künstlerisches Interesse.<br>
   <p>
-      <input type="radio" name="BFI_item5" value="1" required> 1 = gar nicht<br>
-      <input type="radio" name="BFI_item5" value="2"> 2 = ein bisschen<br>
-      <input type="radio" name="BFI_item5" value="3"> 3 = einigermaßen<br>
-      <input type="radio" name="BFI_item5" value="4"> 4 = erheblich<br>
-      <input type="radio" name="BFI_item5" value="5"> 5 = äußerst<br>
+      <input type="radio" name="BFI_OFF_item5" value="5" required> 1 = gar nicht<br>
+      <input type="radio" name="BFI_OFF_item5" value="4"> 2 = ein bisschen<br>
+      <input type="radio" name="BFI_OFF_item5" value="3"> 3 = einigermaßen<br>
+      <input type="radio" name="BFI_OFF_item5" value="2"> 4 = erheblich<br>
+      <input type="radio" name="BFI_OFF_item5" value="1"> 5 = äußerst<br>
 
     <p>Ich gehe aus mir heraus, bin gesellig.<br>
    <p>
-      <input type="radio" name="BFI_item6" value="1" required> 1 = gar nicht<br>
-      <input type="radio" name="BFI_item6" value="2"> 2 = ein bisschen<br>
-      <input type="radio" name="BFI_item6" value="3"> 3 = einigermaßen<br>
-      <input type="radio" name="BFI_item6" value="4"> 4 = erheblich<br>
-      <input type="radio" name="BFI_item6" value="5"> 5 = äußerst<br>
+      <input type="radio" name="BFI_EXT_item6" value="1" required> 1 = gar nicht<br>
+      <input type="radio" name="BFI_EXT_item6" value="2"> 2 = ein bisschen<br>
+      <input type="radio" name="BFI_EXT_item6" value="3"> 3 = einigermaßen<br>
+      <input type="radio" name="BFI_EXT_item6" value="4"> 4 = erheblich<br>
+      <input type="radio" name="BFI_EXT_item6" value="5"> 5 = äußerst<br>
 
     <p>Ich neige dazu, andere zu kritisieren.<br>
   <p>
-      <input type="radio" name="BFI_item7" value="1" required> 1 = gar nicht<br>
-      <input type="radio" name="BFI_item7" value="2"> 2 = ein bisschen<br>
-      <input type="radio" name="BFI_item7" value="3"> 3 = einigermaßen<br>
-      <input type="radio" name="BFI_item7" value="4"> 4 = erheblich<br>
-      <input type="radio" name="BFI_item7" value="5"> 5 = äußerst<br>
+      <input type="radio" name="BFI_VER_item7" value="5" required> 1 = gar nicht<br>
+      <input type="radio" name="BFI_VER_item7" value="4"> 2 = ein bisschen<br>
+      <input type="radio" name="BFI_VER_item7" value="3"> 3 = einigermaßen<br>
+      <input type="radio" name="BFI_VER_item7" value="2"> 4 = erheblich<br>
+      <input type="radio" name="BFI_VER_item7" value="1"> 5 = äußerst<br>
 
     <p>Ich erledige Aufgaben gründlich.<br>
   <p>
-      <input type="radio" name="BFI_item8" value="1" required> 1 = gar nicht<br>
-      <input type="radio" name="BFI_item8" value="2"> 2 = ein bisschen<br>
-      <input type="radio" name="BFI_item8" value="3"> 3 = einigermaßen<br>
-      <input type="radio" name="BFI_item8" value="4"> 4 = erheblich<br>
-      <input type="radio" name="BFI_item8" value="5"> 5 = äußerst<br>
+      <input type="radio" name="BFI_GEW_item8" value="1" required> 1 = gar nicht<br>
+      <input type="radio" name="BFI_GEW_item8" value="2"> 2 = ein bisschen<br>
+      <input type="radio" name="BFI_GEW_item8" value="3"> 3 = einigermaßen<br>
+      <input type="radio" name="BFI_GEW_item8" value="4"> 4 = erheblich<br>
+      <input type="radio" name="BFI_GEW_item8" value="5"> 5 = äußerst<br>
 
     <p>Ich werde leicht nervös und unsicher.<br>
  <p>
-      <input type="radio" name="BFI_item9" value="1" required> 1 = gar nicht<br>
-      <input type="radio" name="BFI_item9" value="2"> 2 = ein bisschen<br>
-      <input type="radio" name="BFI_item9" value="3"> 3 = einigermaßen<br>
-      <input type="radio" name="BFI_item9" value="4"> 4 = erheblich<br>
-      <input type="radio" name="BFI_item9" value="5"> 5 = äußerst<br>
+      <input type="radio" name="BFI_NEU_item9" value="1" required> 1 = gar nicht<br>
+      <input type="radio" name="BFI_NEU_item9" value="2"> 2 = ein bisschen<br>
+      <input type="radio" name="BFI_NEU_item9" value="3"> 3 = einigermaßen<br>
+      <input type="radio" name="BFI_NEU_item9" value="4"> 4 = erheblich<br>
+      <input type="radio" name="BFI_NEU_item9" value="5"> 5 = äußerst<br>
 
     <p>Ich habe eine aktive Vorstellungskraft, bin fantasievoll.<br>
 <p>
-      <input type="radio" name="BFI_item10" value="1" required> 1 = gar nicht<br>
-      <input type="radio" name="BFI_item10" value="2"> 2 = ein bisschen<br>
-      <input type="radio" name="BFI_item10" value="3"> 3 = einigermaßen<br>
-      <input type="radio" name="BFI_item10" value="4"> 4 = erheblich<br>
-      <input type="radio" name="BFI_item10" value="5"> 5 = äußerst<br>
+      <input type="radio" name="BFI_OFF_item10" value="1" required> 1 = gar nicht<br>
+      <input type="radio" name="BFI_OFF_item10" value="2"> 2 = ein bisschen<br>
+      <input type="radio" name="BFI_OFF_item10" value="3"> 3 = einigermaßen<br>
+      <input type="radio" name="BFI_OFF_item10" value="4"> 4 = erheblich<br>
+      <input type="radio" name="BFI_OFF_item10" value="5"> 5 = äußerst<br>
 
 
  // 2.2 ASCQ 
@@ -256,13 +256,13 @@ timeline.push({
 
     <p>Meine Gedanken schweifen während der Vorlesungen oft ab.<br>
     <p>
-      <input type="radio" name="ASC_item2" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="ASc_item2" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="ASC_item2" value="3"> 3 = wenig<br>
+      <input type="radio" name="ASC_item2" value="7" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="ASc_item2" value="6"> 2 = sehr wenig<br>
+      <input type="radio" name="ASC_item2" value="5"> 3 = wenig<br>
       <input type="radio" name="ASC_item2" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="ASC_item2" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="ASC_item2" value="6"> 6 = stark<br>
-      <input type="radio" name="ASC_item2" value="7"> 7 = vollständig<br>
+      <input type="radio" name="ASC_item2" value="3"> 5 = ziemlich<br>
+      <input type="radio" name="ASC_item2" value="2"> 6 = stark<br>
+      <input type="radio" name="ASC_item2" value="1"> 7 = vollständig<br>
     </p>
     
     <p>Ich bin in der Lage, meinen Kommiliton*innen bei ihren Kursarbeiten zu helfen.<br>
@@ -311,13 +311,13 @@ timeline.push({
 
     <p>Die meisten meiner Kommiliton*innen sind schlauer als ich.<br>
     <p>
-      <input type="radio" name="ASC_item7" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="ASC_item7" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="ASC_item7" value="3"> 3 = wenig<br>
+      <input type="radio" name="ASC_item7" value="7" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="ASC_item7" value="6"> 2 = sehr wenig<br>
+      <input type="radio" name="ASC_item7" value="5"> 3 = wenig<br>
       <input type="radio" name="ASC_item7" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="ASC_item7" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="ASC_item7" value="6"> 6 = stark<br>
-      <input type="radio" name="ASC_item7" value="7"> 7 = vollständig<br>
+      <input type="radio" name="ASC_item7" value="3"> 5 = ziemlich<br>
+      <input type="radio" name="ASC_item7" value="2"> 6 = stark<br>
+      <input type="radio" name="ASC_item7" value="1"> 7 = vollständig<br>
     </p>
 
     <p>Ich lerne fleißig für meine Prüfungen.<br>
@@ -333,13 +333,13 @@ timeline.push({
 
     <p>Meine Dozent*innen halten meine Studienleistungen für schlecht.<br>
     <p>
-      <input type="radio" name="ASC_item9" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="ASC_item9" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="ASC_item9" value="3"> 3 = wenig<br>
+      <input type="radio" name="ASC_item9" value="7" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="ASC_item9" value="6"> 2 = sehr wenig<br>
+      <input type="radio" name="ASC_item9" value="5"> 3 = wenig<br>
       <input type="radio" name="ASC_item9" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="ASC_item9" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="ASC_item9" value="6"> 6 = stark<br>
-      <input type="radio" name="ASC_item9" value="7"> 7 = vollständig<br>
+      <input type="radio" name="ASC_item9" value="3"> 5 = ziemlich<br>
+      <input type="radio" name="ASC_item9" value="2"> 6 = stark<br>
+      <input type="radio" name="ASC_item9" value="1"> 7 = vollständig<br>
     </p>
 
     <p>Ich interessiere mich normalerweise für meine Studieninhalte.<br>
@@ -355,13 +355,13 @@ timeline.push({
 
     <p>Ich vergesse oft, was ich gelernt habe.<br>
     <p>
-      <input type="radio" name="ASC_item11" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="ASC_item11" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="ASC_item11" value="3"> 3 = wenig<br>
+      <input type="radio" name="ASC_item11" value="7" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="ASC_item11" value="6"> 2 = sehr wenig<br>
+      <input type="radio" name="ASC_item11" value="5"> 3 = wenig<br>
       <input type="radio" name="ASC_item11" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="ASC_Item11" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="ASC_item11" value="6"> 6 = stark<br>
-      <input type="radio" name="ASC_item11" value="7"> 7 = vollständig<br>
+      <input type="radio" name="ASC_Item11" value="3"> 5 = ziemlich<br>
+      <input type="radio" name="ASC_item11" value="2"> 6 = stark<br>
+      <input type="radio" name="ASC_item11" value="1"> 7 = vollständig<br>
     </p>
 
     <p>Ich werde mein Bestes tun, um alle meine Kurse in diesem Semester zu bestehen.<br>
@@ -377,24 +377,24 @@ timeline.push({
 
     <p>Ich werde nervös, wenn Dozent*innen mir eine Frage stellen.<br>
     <p>
-      <input type="radio" name="ASC_item13" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="ASC_item13" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="ASC_item13" value="3"> 3 = wenig<br>
+      <input type="radio" name="ASC_item13" value="7" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="ASC_item13" value="6"> 2 = sehr wenig<br>
+      <input type="radio" name="ASC_item13" value="5"> 3 = wenig<br>
       <input type="radio" name="ASC_item13" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="ASC_item13" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="ASC_item13" value="6"> 6 = stark<br>
-      <input type="radio" name="ASC_item13" value="7"> 7 = vollständig<br>
+      <input type="radio" name="ASC_item13" value="3"> 5 = ziemlich<br>
+      <input type="radio" name="ASC_item13" value="2"> 6 = stark<br>
+      <input type="radio" name="ASC_item13" value="1"> 7 = vollständig<br>
     </p>
 
     <p>Ich habe oft das Gefühl, mein Studium abzubrechen zu wollen.<br>
     <p>
-      <input type="radio" name="ASC_item14" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="ASC_item14" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="ASC_item14" value="3"> 3 = wenig<br>
+      <input type="radio" name="ASC_item14" value="7" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="ASC_item14" value="6"> 2 = sehr wenig<br>
+      <input type="radio" name="ASC_item14" value="5"> 3 = wenig<br>
       <input type="radio" name="ASC_item14" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="ASC_item14" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="ASC_item14" value="6"> 6 = stark<br>
-      <input type="radio" name="ASC_item14" value="7"> 7 = vollständig<br>
+      <input type="radio" name="ASC_item14" value="3"> 5 = ziemlich<br>
+      <input type="radio" name="ASC_item14" value="2"> 6 = stark<br>
+      <input type="radio" name="ASC_item14" value="1"> 7 = vollständig<br>
     </p>
 
     <p>Ich bin in den meisten meiner Kurse gut.<br>
@@ -410,24 +410,24 @@ timeline.push({
 
     <p>Während der Vorlesung warte ich immer, dass sie zu Ende ist, damit ich nach Hause gehen kann.<br>
     <p>
-      <input type="radio" name="ASC_item16" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="ASC_item16" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="ASC_item16" value="3"> 3 = wenig<br>
+      <input type="radio" name="ASC_item16" value="7" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="ASC_item16" value="6"> 2 = sehr wenig<br>
+      <input type="radio" name="ASC_item16" value="5"> 3 = wenig<br>
       <input type="radio" name="ASC_item16" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="ASC_item16" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="ASC_item16" value="6"> 6 = stark<br>
-      <input type="radio" name="ASC_item16" value="7"> 7 = vollständig<br>
+      <input type="radio" name="ASC_item16" value="3"> 5 = ziemlich<br>
+      <input type="radio" name="ASC_item16" value="2"> 6 = stark<br>
+      <input type="radio" name="ASC_item16" value="1"> 7 = vollständig<br>
     </p>
 
     <p>Ich schneide in Kursen und Prüfungen immer schlecht ab.<br>
     <p>
-      <input type="radio" name="ASC_item17" value="1" required> 1 = überhaupt nicht<br>
-      <input type="radio" name="ASC_item17" value="2"> 2 = sehr wenig<br>
-      <input type="radio" name="ASC_item17" value="3"> 3 = wenig<br>
+      <input type="radio" name="ASC_item17" value="7" required> 1 = überhaupt nicht<br>
+      <input type="radio" name="ASC_item17" value="6"> 2 = sehr wenig<br>
+      <input type="radio" name="ASC_item17" value="5"> 3 = wenig<br>
       <input type="radio" name="ASC_item17" value="4"> 4 = teils/teils<br>
-      <input type="radio" name="ASC_item17" value="5"> 5 = ziemlich<br>
-      <input type="radio" name="ASC_item17" value="6"> 6 = stark<br>
-      <input type="radio" name="ASC_item17" value="7"> 7 = vollständig<br>
+      <input type="radio" name="ASC_item17" value="3"> 5 = ziemlich<br>
+      <input type="radio" name="ASC_item17" value="2"> 6 = stark<br>
+      <input type="radio" name="ASC_item17" value="1"> 7 = vollständig<br>
     </p>
 
     <p>Ich gebe nicht leicht auf, wenn ich in meinen Kursarbeiten vor schwierigen Fragen stehe.<br>
